@@ -424,6 +424,8 @@ tile.syncronizer.name=同步器
 tile.deep_core_miner.name=深度矿机核心
 tile.rf_ne_converter.name=能量转换器
 tile.fluid_intake.name=流体吸收器
+tile.insert_node.name=塞子
+tile.opti_assembler.name=自动装配台
 
 fluid.liquid.neon=液化氖
 fluid.saltwater=盐水
